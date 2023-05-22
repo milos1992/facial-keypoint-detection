@@ -10,7 +10,7 @@ The solution will also be tested on a self-created set of images to visually ver
 
 ## Train samples
 
-![image](https://drive.google.com/file/d/12BaVhUw_xe8t-UUbk8ohZacnzVMifN8V/view?usp=sharing))
+![image](https://drive.google.com/uc?export=view&id=12BaVhUw_xe8t-UUbk8ohZacnzVMifN8V)
 
 
 ## Keypoint prediction 
