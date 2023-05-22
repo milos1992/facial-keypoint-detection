@@ -15,12 +15,12 @@ The solution will also be tested on a self-created set of images to visually ver
 
 ## Keypoint prediction 
 
-![image](https://drive.google.com/file/d/1YxP0AVPjwzlurnukcEN6MeBcTKaVMLDx/view?usp=sharing)
+![image](https://drive.google.com/uc?export=view&id=1YxP0AVPjwzlurnukcEN6MeBcTKaVMLDx)
 
 ## External images
 
-![image](https://drive.google.com/file/d/1weSMsSpfl2NqvlBQuOFWscjyeEB0fqWN/view?usp=sharing)
+![image](https://drive.google.com/uc?export=view&id=1weSMsSpfl2NqvlBQuOFWscjyeEB0fqWN)
 
 ## Predictions for external images
 
-![image](https://drive.google.com/file/d/1h39ql8lfaWWg1Aj1NybBjRTI6d2YDZjy/view?usp=sharing)
+![image](https://drive.google.com/uc?export=view&id=1h39ql8lfaWWg1Aj1NybBjRTI6d2YDZjy)
