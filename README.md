@@ -19,10 +19,10 @@ The solution will also be tested on a self-created set of images to visually ver
 
 ## External images
 
-![image](https://drive.google.com/uc?export=view&id=1weSMsSpfl2NqvlBQuOFWscjyeEB0fqWN)
+![image](https://drive.google.com/uc?export=view&id=z15sdZ5mVWBoE3oj8nJTvKGk5gxnEVpyfp)
 
 ## Predictions for external images
 
-![image](https://drive.google.com/uc?export=view&id=1h39ql8lfaWWg1Aj1NybBjRTI6d2YDZjy)
+![image](https://drive.google.com/uc?export=view&id=1PzYS28F1p1tdkQs_iTrLmaMwbv-rFcsK)
 
 
