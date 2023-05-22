@@ -8,16 +8,19 @@ Performance is evaluated on the Kaggle test dataset, where keypoint locations ar
 The solution will also be tested on a self-created set of images to visually verify that it can accurately locate keypoints.
 
 
-## Train and test samples
-![image](https://github.com/milos1992/facial-keypoint-detection/assets/76406311/bb52fa0d-ca18-4b4b-a26c-b003e6ba763b)
+## Train samples
+
+![image](https://drive.google.com/file/d/12BaVhUw_xe8t-UUbk8ohZacnzVMifN8V/view?usp=sharing))
 
 
 ## Keypoint prediction 
 
-![image](https://github.com/milos1992/facial-keypoint-detection/assets/76406311/56e7d3cf-4908-4bdf-a921-1823952da287)
+![image](https://drive.google.com/file/d/1YxP0AVPjwzlurnukcEN6MeBcTKaVMLDx/view?usp=sharing)
 
 ## External images
 
-![image](https://github.com/milos1992/facial-keypoint-detection/assets/76406311/90c612dc-f38a-47c2-999b-4fdfc0115719)
+![image](https://drive.google.com/file/d/1weSMsSpfl2NqvlBQuOFWscjyeEB0fqWN/view?usp=sharing)
 
+## Predictions for external images
 
+![image](https://drive.google.com/file/d/1h39ql8lfaWWg1Aj1NybBjRTI6d2YDZjy/view?usp=sharing)
